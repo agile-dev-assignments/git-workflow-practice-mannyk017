@@ -1,4 +1,4 @@
-### Git Workflow Practice
+# Git Workflow Practice
 
 **Author:** Maneesh Karnati
 
