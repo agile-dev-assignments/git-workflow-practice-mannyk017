@@ -19,3 +19,5 @@ I thought this article was really interesting because although I knew how large 
 **What I Found Ineresting:**
 The communication time delay in space is a very interesting problem. It makes sense that in order to reduce latency, the human element should be greatly reduced. Given the sheer amount of data and its availability, A.I. would seem to be better in the context than other applications. As the commercialization of space expands, I can easily see the reliability and accuracy of these A.I. applications increasing rapidly as more and more private and public investment enter the space (no pun intended).
 
+**Commenter: ** Karan Tibriwal
+Hey, I thought this was a super interesting article as I have a huge interest in space/the universe. I think this article brings up a few interesting points, but I do have one hesitation. Obviously, reducing human input will reduce communication latency, but at what point will technology be the barrier? For example, right now, it takes 7ms to transport data from here to Chicago, autonomously. Once everyone is on this new ‘baseline’, when will technology and AI be the barrier?
